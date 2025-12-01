@@ -2,7 +2,7 @@ Deep Joint Source–Channel Coding (Deep JSCC) with RL Optimization
 
 Author: Bhinit Rout
 
-Affiliation: School of Engineering, Vellore Institute of Technology (VIT)
+Affiliation: School of Electrical Engineering, Vellore Institute of Technology (VIT)
 
 📄 Abstract
 
